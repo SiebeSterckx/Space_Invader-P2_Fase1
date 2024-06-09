@@ -1,0 +1,2 @@
+Installations:
+- pip install pygame
