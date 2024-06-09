@@ -176,10 +176,7 @@ cython_debug/
 .ionide
 *.jpg
 *.jpeg
-*.png
 *.wav
-*.mp3
-*.ogg
 *.midi
 *.zip
 *.7z
