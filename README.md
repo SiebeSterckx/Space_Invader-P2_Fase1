@@ -1,2 +1,2 @@
-Installations:
+**Installations:**
 - pip install pygame
